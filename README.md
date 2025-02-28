@@ -1,0 +1,2 @@
+# A-DRIVING-DECISION-STRATEGY-DDS-BASED-ON-MACHINE-LEARNING-FOR-AN-AUTONOMOUS-VEHICLE
+Current self-sustaining cars make driving decisions based only on external factors (like pedestrians and road conditions) and ignore the car's internal state A new Driving Decision Strategy (DDS) uses a genetic algorithm to analyze both external and internal factors, optimizing decision-making for autonomous vehicles
